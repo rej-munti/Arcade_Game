@@ -12,7 +12,7 @@ Player use the Keys to can handle the **Player**,
 - Right key, to move right.
 - Left key, to move left.
 
-When **Player** WIN, can Restart the game by click *Restart* button.
+When **Player** WIN, he goes automatically to the start point **(grass block)** to can play again.
 
 #Tool:
 the Game doesn't need any tool, it's Programmed by using HTML, CSS an JavaScript programming languages.
